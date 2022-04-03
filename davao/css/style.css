@@ -1,0 +1,794 @@
+/*fonts*/
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face {
+	font-family:"DK Crayon Crumble";
+	src:url("../fonts/crayon/DK_Crayon_Crumble.eot?") format("eot"),url("../fonts/crayon/DK_Crayon_Crumble.woff") format("woff"),url("../fonts/crayon/DK_Crayon_Crumble.ttf") format("truetype"),url("../fonts/crayon/DK_Crayon_Crumble.svg#DKCrayonCrumble") format("svg");font-weight:normal;font-style:normal;
+	}
+
+.clear{
+	clear: both;
+}
+
+h1,h2,h3,h4,h5,h6,h7,p,img{
+	margin:0;
+	padding:0;
+}
+
+.hidden{
+	height:0px;
+	overflow:hidden;
+}
+
+.controlgroup-textinput{
+    padding-top:.22em;
+    padding-bottom:.22em;
+}
+
+body{
+	background:#FFFFFF;
+	
+}
+
+a .ui-link{
+	text-decoration:none;
+}
+
+.ui-icon-loading{
+	z-index:100;
+}
+
+.footer{
+	width:398px;
+	height:17px;
+	background:#fbf9f9;
+	text-align:center;
+	margin:auto;
+	font-size:12px;
+}
+
+.navigation{
+	margin:50px auto 0;
+	width:455px;
+}
+
+#backbtn{
+	float:left;
+}
+
+#nextbtn{
+	float:right;
+}
+
+.footer .ui-link{
+	color:#000000;
+	font-weight:normal;
+	text-decoration:none;
+	font-size:12px;
+}
+
+.red{
+	color:#F00;
+	display:inline;
+}
+
+.progress_bar-row{
+	width:915px;
+	padding:0 54px;
+	position:relative;
+}
+
+.progress_label{
+	position:absolute;
+	left:54px;
+	top:0;
+}
+
+.progress_bar{
+	position:absolute;
+	right:54px;
+	top:0;
+}
+.progress_bar-stills{
+	position:absolute;
+	right:0;
+	top:30px;
+}
+
+.inside_lightbox{
+	height:500px;
+	width:820px;
+	overflow:auto;
+}
+
+.ui-btn.my-tooltip-btn,
+.ui-btn.my-tooltip-btn:hover,
+.ui-btn.my-tooltip-btn:active {
+    background: none;
+    border: 0;
+}
+
+/*Home Page*/
+#home{
+	background:#FFFFFF;
+    /*background-image: url('../img/stripes_run_background.jpg');*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+.home_inside{
+	max-width:1024px;
+	/*max-height:500px;*/
+	position:absolute;
+	text-align:center;
+	left:0;
+	right:0;
+	bottom:0;
+	top:0;
+	margin:auto;
+}
+
+.home_red_bg{
+	background:#df0021;
+}
+
+.ui-listview{
+	margin-top:-15px !important;
+}
+
+#race_category{
+	background:#FFFFFF;
+    /*background-image: url('../img/race_category_background.jpg');*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.race_category{
+	width:1024px;
+	height:auto;
+	position:absolute;
+	text-align:center;
+	left:0;
+	right:0;
+	bottom:0;
+	top:0;
+	margin:0 auto;
+	text-align:left;
+	
+}
+
+.race_category_right_right1{
+	width:144px;
+	margin:0 auto;
+	float:left;
+	text-align:left;
+	padding:20px;
+}
+
+.race_category_right_right2{
+	width:144px;
+	margin:0 auto;
+	float:left;
+	text-align:left;
+	padding:60px 20px 0;
+}
+
+
+
+.race_category_right_left{
+	width:356px;
+	margin:0 auto;
+	float:left;
+}
+
+
+.race_category_right{
+	width:595px;
+	margin:0 auto;
+	position:relative;
+	text-align:center;
+}
+
+
+.mapcss{
+	font-size:20px;
+}
+
+h1{
+	font-size:36px;
+}
+
+.race_category_right h1{
+	font-size:26px;
+}
+
+.required{
+	clear:both;
+	font-size:18px;
+	padding-top:20px;
+}
+	
+
+.race_category_right legend{
+	margin:auto;
+	font-size:18px;
+}
+
+.race_category_right label{
+	background:none !important;
+	border:#f1c046 5px solid !important;
+	text-align:center !important;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif !important;
+	font-size:22px !important;
+	font-weight:normal !important;
+	margin:10px !important;
+	width:100px !important;
+	height:30px !important;
+	float:left;
+	padding:5px 10px 10px !important;
+}
+
+
+.race_category_right label:after{
+	content:attr(x) !important;
+	top:100px;
+}
+
+.race_category_right .ui-controlgroup-controls{
+	border-radius:0 !important;
+}
+
+#run_cateogry_form .ui-radio .ui-radio-on {
+    background:#df0021 !important;
+	color:#ffffff !important;
+	border:#df0021 !important;
+	padding:12px 15px 12px !important;
+	margin:10px !important;
+	height:30px !important;	
+}
+
+#run_cateogry_form_dv .ui-radio .ui-radio-on {
+    background:#df0021 !important;
+	color:#ffffff !important;
+	border:#df0021 !important;
+	padding:12px 15px 12px !important;
+	margin:10px !important;
+	height:30px !important;	
+}
+
+
+
+
+
+.J_gender label{
+	background:none !important;
+	border:none !important;
+	text-align:center !important;
+	font-size:18px !important;
+	color:#8f8f8f !important;
+}
+
+
+.J_gender label:after{
+	content:attr(x) !important;
+	top:100px;
+}
+
+.J_gender .ui-controlgroup-controls{
+	border-radius:0 !important;
+}
+
+.are_you_employed label{
+	background:none !important;
+	border:none !important;
+	text-align:center !important;
+	font-size:18px !important;
+	color:#8f8f8f !important;
+}
+
+
+.are_you_employed label:after{
+	content:attr(x) !important;
+	top:100px;
+}
+
+.are_you_employed .ui-controlgroup-controls{
+	border-radius:0 !important;
+}
+
+
+.termsboxes label{
+	background:none !important;
+	border:none !important;
+	text-align:center !important;
+	font-size:16px !important;
+	color:#8f8f8f !important;
+}
+
+
+.termsboxes label:after{
+	content:attr(x) !important;
+	top:100px;
+}
+
+.termsboxes .ui-controlgroup-controls{
+	border-radius:0 !important;
+}
+
+
+.iframepdf{
+	border:5px #f1c046 solid;
+	width:900px;
+	height:590px;
+}
+
+.relative_holder{
+	margin:20px 0;
+}
+
+.race_category_left{
+	width:915px;
+	padding:0 54px;
+	margin:0 auto;
+	position:relative;
+	text-align:left;
+	
+	/*width:290px;
+	float:left;
+	position:relative;
+	text-align:center;
+	*/
+}
+
+.race_category_logo{
+	/*position:absolute;
+	left:0;
+	top:0;*/
+	margin:0 0 55px;
+}
+
+.race_category_left h1{
+	font-size:26px;
+	margin-top:66px;
+	font-weight:normal;
+}
+
+.race_category_border{
+	position:absolute;
+	left:32px;
+	top:90px;
+}
+
+.race_category_map{
+	padding-top:20px;
+}
+
+.race_category_map img{
+	border:#df0021 1px solid;
+}
+
+#branch_for_registration{
+	background:#FFFFFF;
+    /*background-image: url('../img/race_category_background.jpg');*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+.inner_form{
+	width:842px;
+	margin:0 auto;
+}
+
+.home_text{
+	color:#ffffff;
+	font-size:18px;
+	text-align:center;
+	margin:5px 0 40px;
+}
+
+#J-outer-width{
+}
+
+.j-header{
+	height:73px;
+}
+
+#registration1, #registration2{
+	background:#fff;
+}
+
+.run_reg1{
+	float:right;
+	margin:0 0 0 0px;
+}
+
+#J-outer-width .form_centered{
+	
+	margin:10px auto;
+}
+
+.df-font{
+	font-size:18px;
+	font-weight:bold;
+}
+
+#J-outer-width .form_title{
+	font-size:18px;
+	font-weight:bold;
+}
+
+#J-outer-width .req_text{
+	font-size:18px;
+	margin:10px 0 0 180px;
+}
+
+
+#J-outer-width .J_firstname{
+	width:50%;
+	height:29px;
+	float:left;
+}
+
+#J-outer-width .J_midname{
+	width:40%;
+	height:29px;
+	float:left;
+	margin:0 0 0 15px;
+}
+
+#J-outer-width .J_lastname{
+	width:50%;
+	height:29px;
+	margin:25px 0 0;
+}
+
+#J-outer-width .J_selectmobile{
+}
+
+#J-outer-width .J_email{
+	width:100%;
+	height:29px;
+	margin:0px 0 20px 2px;
+}
+
+.mob-num-uni .ui-input-text{
+	width: 167px !important;
+}
+
+.mob-num-uni2 .ui-input-text{
+	width: 184px !important;
+}
+
+#J-outer-width .J_gender{
+	width:139px;
+	height:29px;
+	margin:0px 5px 0 0px;
+	float:left;
+}
+.J_gender label{
+	font-size:12px;
+}
+
+#J-outer-width .J_dob{
+	width:100%;
+	height:29px;
+	margin:0px 0 0px;
+}
+
+
+#J-outer-width .J_genderbox{
+	float:left;
+}
+
+
+#J-outer-width .J_dobbox{
+	float:left;
+}
+
+.fullwidth{
+	width:100%;
+}
+
+#J-outer-width .J_footer{
+	width:737px;
+	height:296px;
+	margin:10px 0 0 -180px;
+	position:relative;
+}
+
+#J-outer-width .J_nav a{
+}
+
+
+#J-outer-width .J_mech_links .footer{
+	bottom:121px;
+}
+
+#J-outer-width .form_centered_2{
+	width:416px;
+	margin:10px auto;
+}
+
+#J-outer-width .J_add_1{
+	width:101px;
+	height:29px;
+	float:left;
+	font-size:15px;
+	margin:0 0 15px 0;
+}
+
+#J-outer-width .J_add_2{
+	width:180px;
+	height:29px;
+	float:left;
+	font-size:15px;
+	margin:0 5px 15px;
+}
+
+#J-outer-width .J_add_3{
+	width:100px;
+	height:29px;
+	float:left;
+	font-size:15px;
+	margin:0 0 15px 0;
+}
+
+
+#J-outer-width .J_add_4{
+	width:179px;
+	height:29px;
+	float:left;
+	font-size:15px;
+	margin:0 5px 35px 0;
+}
+
+#J-outer-width .J_add_5{
+	width:102px;
+	height:29px;
+	float:left;
+	font-size:15px;
+	margin:0 0 35px 0;
+}
+
+#J-outer-width .J_nationality{
+	width:180px;
+	height:29px;
+	float:left;
+	margin:0px 2px 40px;
+}
+
+#J-outer-width .J_nationality form{
+	margin:-16px 0 0 0;
+	padding:0px;
+}
+#J-outer-width .J_occupation{
+	width:218px;
+	height:29px;
+	float:left;
+	font-size:16px;
+	margin:0 0 60px 5px;
+}
+
+#J-outer-width .J_freq{
+	width:183px;
+	height:29px;
+	margin:0px 2px 40px;
+}
+
+#J-outer-width .J_employed{
+	width:87px;
+	height:29px;
+	float:left;
+	margin:0px 2px 40px;
+}
+
+
+#J-outer-width .J_division{
+	width:220px;
+	height:29px;
+	float:left;
+	margin:0px 0px 0px 5px;
+}
+
+.div_label{
+	float:left;
+	font-size:12px;
+	margin:20px 5px 0 0;
+}
+
+.J_divisionbox{
+	float:left;
+	width:168px; 
+	height:29px;
+}
+
+#registration1,#registration2,#registration3,#registration4,#confirm,#success{
+	background:#FFFFFF;
+    /*background-image: url('../img/race_category_background.jpg');*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+.set_auto_fill_occupation,.set_auto_fill_branch,.set_auto_fill_prov,.set_auto_fill_city{
+	position:fixed;
+	z-index:5;
+	-moz-box-shadow: 5px 5px 5px #ccc; -webkit-box-shadow: 5px 5px 5px #ccc; box-shadow: 5px 5px 5px #ccc;
+	border-left:1px #999 solid;
+}
+
+.branch-pad{
+	padding-top:20px;
+}
+
+.reg1height{
+	/*height:630px;*/
+}
+
+.reg2height{
+	height:670px; 
+	font-size:20px; 
+	font-weight:bold;
+	/*padding-top:90px;*/
+}
+
+.reg3height{
+	height:670px;
+	padding-top:110px;
+}
+
+.reg4height{
+	/*height:670px;
+	padding-top:110px;*/
+}
+
+
+#admin{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	max-width: 800px;
+	height: 600px;
+	margin: auto;
+	border: #666 solid 1px;
+	z-index: 2099;
+	display: none;
+	background: #fff;
+	overflow: auto;
+}
+
+#getadmin{
+
+}
+
+.adminoverlay{
+	display: none;
+}
+
+
+
+@media screen and (max-width: 950px) {
+	.progress_bar-row, .race_category_left, .inner_form{
+		padding:0;
+	}
+	
+	
+	.race_category_logo,.progress_bar-row,.progress_bar,.footer,.navigation,.race_category_right,.race_category_left,.new_footer img,#backbtn,#nextbtn,.race_category_map img,.iframepdf,.home_red_bg img{
+		width:100%;
+		text-align:center;
+		position:relative;
+		padding-bottom:30px;
+		top:0; left:0; right:0; bottom:0;
+		clear:both;
+		display:block;
+	}
+	
+	.set_auto_fill_occupation,.set_auto_fill_branch,.set_auto_fill_prov,.set_auto_fill_city{
+		position:relative;
+	}
+	
+	.footer{
+		padding-bottom:0;
+	}
+	.ui-content{
+		height:auto;
+	}
+	
+	.race_category{ width:100%; height:auto; padding-top:40px; position:relative;}
+	.race_category .race_category_right{ width:100%; float:none; clear:both;}
+	.race_category_left{ width:100%; text-align:center !important; height:auto; position:relative; float:none; clear:both;}
+	.race_category_map{
+		position:relative;
+	}
+	
+	.ui-popup-container,.inside_lightbox,.inside_lightbox img{
+		width:100% !important;
+		padding:0px;
+		margin:0px;
+		left:0 !important; right:0 !important;
+	}
+	
+	.branch-pad{
+		padding-top:0;
+	}
+	#branch_for_registration,.race_category_map{
+		padding-top:0;
+	}
+	
+	#registration1 div{
+	}
+	
+	.j-header{
+		height:0;
+	}
+	
+	.rnnrsname div{
+		width:100% !important;
+		float:none !important;
+		clear:both !important;
+		display:block !important;
+		margin:0 !important;
+		padding:0 !important;
+		margin-bottom:20px !important;
+	}
+	
+	.ui-listview{
+		width:100%;
+	}
+	
+	.reg1height{
+		height:auto;
+	}
+	
+	.ui-grid-a{
+		width:100%;
+		float:none;
+	}
+		
+	.ui-controlgroup-controls {
+		width:100%;
+	}
+	
+	.ui-block-a,.ui-block-b,.ui-block-c{
+		width:100% !important;
+		float:none !important;
+		clear:both !important;
+	}
+	.mob-num-uni .ui-input-text{
+		width:40% !important;
+	}
+	
+	.mob-num-uni2 .ui-input-text{
+		width:40% !important;
+	}
+	
+	.J_dob{
+		height:40px !important;
+	}
+	
+	.J_gender{
+		width:48% !important;
+	}
+	.J_genderbox{
+		width:100%;
+	}
+	
+	.provspace{
+		margin: 30px 0;
+	}
+	.citystry{
+		height:70px;
+	}
+}
+
+@media screen and (max-width: 650px) {
+	.race_category_logo img, .progress_bar img{
+		width:70%
+	}
+	.confirm-header{
+		width:100%;
+	}
+}

@@ -1,0 +1,419 @@
+<li>MORAYTA</li>
+<li>CUBAO</li>
+<li>GREENHILLS</li>
+<li>GLORIETTA</li>
+<li>DAU</li>
+<li>UN AVENUE</li>
+<li>QUEZON AVENUE</li>
+<li>GREENBELT</li>
+<li>BACLARAN</li>
+<li>SM NORTH EDSA</li>
+<li>AURORA BLVD.</li>
+<li>ALABANG</li>
+<li>LANDMARK</li>
+<li>MCS</li>
+<li>TAFT</li>
+<li>COMMONWEALTH</li>
+<li>LAS PINAS</li>
+<li>KATIPUNAN</li>
+<li>SAN FERNANDO DOLORES JUNCTION</li>
+<li>ROBINSON'S GALLERIA</li>
+<li>E. RODRIGUEZ</li>
+<li>GOV. FORBES</li>
+<li>TARLAC ROMULO</li>
+<li>BAGUIO SESSION</li>
+<li>MARCOS HI-WAY</li>
+<li>BACOLOD LACSON</li>
+<li>BINAN</li>
+<li>RETIRO</li>
+<li>SM MEGAMALL</li>
+<li>ALIMALL</li>
+<li>CDO LIMKETKAI</li>
+<li>MASANGKAY</li>
+<li>CEBU JONES</li>
+<li>MEYCAUAYAN</li>
+<li>DAVAO BAJADA</li>
+<li>KP TOWERS</li>
+<li>SHANGRILA  </li>
+<li>LIPA AYALA</li>
+<li>DAVAO VICTORIA</li>
+<li>TUTUBAN CENTERMALL</li>
+<li>DAGUPAN</li>
+<li>ANTIPOLO</li>
+<li>ANONAS</li>
+<li>EVER COMMONWEALTH</li>
+<li>SM CEBU</li>
+<li>ATRIUM ILOILO</li>
+<li>SAN FERNANDO 2 </li>
+<li>CEBU AYALA</li>
+<li>PHILCOA</li>
+<li>NAGA GEN LUNA</li>
+<li>CABANATUAN</li>
+<li>BALIUAG PLAZA</li>
+<li>SM SOUTHMALL</li>
+<li>WALTERMART DASMARINAS</li>
+<li>CAVITE CITY J. FELIPE</li>
+<li>PASIG PLAZA</li>
+<li>EVER CAINTA</li>
+<li>MARKETPLACE</li>
+<li>SAN PEDRO</li>
+<li>STA. LUCIA MALL GRD. LEVEL</li>
+<li>TARLAC HI-WAY</li>
+<li>FARMERS PLAZA</li>
+<li>MARIKINA PRODIGY</li>
+<li>CAGAYAN DE ORO DIVISORIA</li>
+<li>ANGELES 1</li>
+<li>WALTERMART STA. ROSA</li>
+<li>LIPA CATHEDRAL BAYAN</li>
+<li>METROLANE</li>
+<li>VALENZUELA</li>
+<li>TAGAYTAY TAAL</li>
+<li>MINDANAO AVENUE</li>
+<li>TAYTAY</li>
+<li>LA UNION</li>
+<li>UP LOS BANOS</li>
+<li>POBLACION, BATANGAS</li>
+<li>GUADALUPE</li>
+<li>BOCAUE</li>
+<li>C&P MARIKINA</li>
+<li>SAN PABLO</li>
+<li>SAN MATEO</li>
+<li>GEN LUNA UPSI</li>
+<li>METROPOLIS</li>
+<li>J.P. RIZAL</li>
+<li>DASMARINAS BAYAN</li>
+<li>VISAYAS AVENUE</li>
+<li>CAPAS TARLAC</li>
+<li>SM BACOOR</li>
+<li>ROBINSONS PLACE MALATE</li>
+<li>PATEROS ELISCO</li>
+<li>CARMEN PANGASINAN</li>
+<li>SM FAIRVIEW</li>
+<li>MALABON CONCEPCION</li>
+<li>NE MALL CABANATUAN</li>
+<li>ROYAL CLARK</li>
+<li>TARLAC TOWN CENTER</li>
+<li>STA. CRUZ CHURCH</li>
+<li>TUTUBAN PRIME BLOCK</li>
+<li>CSI URDANETA</li>
+<li>MUNTINLUPA CITYHALL</li>
+<li>PATEROS BAYAN</li>
+<li>KABIHASNAN</li>
+<li>WEST AVENUE</li>
+<li>MARYMART ILOILO</li>
+<li>PACO</li>
+<li>LEMERY</li>
+<li>RFC MOLINO</li>
+<li>TANAUAN BATANGAS</li>
+<li>WALTERMART CALAMBA</li>
+<li>PETRON SOUTH SUPERHIGHWAY</li>
+<li>BANAUE</li>
+<li>EDSA TAFT ROTONDA</li>
+<li>TAGAYTAY OLIVAREZ</li>
+<li>BARANGKA</li>
+<li>AUG ANGELES 2</li>
+<li>MATALINO</li>
+<li>LUCENA QUEZON AVENUE</li>
+<li>PROJECT 8</li>
+<li>FESTIVAL MALL GRD. LEVEL</li>
+<li>TOMAS MORATO</li>
+<li>DAVAO ILUSTRE</li>
+<li>FESTIVAL MALL 3RD LEVEL</li>
+<li>TANZA</li>
+<li>BAGUIO CENTERMALL</li>
+<li>MAKATI AVENUE</li>
+<li>BACLARAN REDEMPTORIST</li>
+<li>MUNOZ</li>
+<li>CABUYAO</li>
+<li>BACLARAN ROTONDA</li>
+<li>BACOLOD LUZURRIAGA</li>
+<li>SM ILOILO</li>
+<li>PEDRO GIL</li>
+<li>TIERRA PURA</li>
+<li>EDSA PANAY</li>
+<li>LAOAG</li>
+<li>KINGSWOOD</li>
+<li>TIMES</li>
+<li>LEPANTO</li>
+<li>P. CAMPA</li>
+<li>AIRPORT ROAD</li>
+<li>BUENDIA</li>
+<li>REGALADO</li>
+<li>PRC</li>
+<li>GAISANO MALL DAVAL</li>
+<li>QA BANAUE</li>
+<li>STA. CRUZ LAGUNA</li>
+<li>GEN. TRIAS</li>
+<li>SM MANILA</li>
+<li>NORTH AVENUE CALTEX</li>
+<li>MASINAG</li>
+<li>PETRON NORTH</li>
+<li>SM PAMPANGA</li>
+<li>HARRISON PLAZA</li>
+<li>LAGUNA BEL AIR</li>
+<li>BALANGA, BATAAN</li>
+<li>EASTWOOD </li>
+<li>ROCKWELL</li>
+<li>SOUTH SUPERMARKET MALOLOS</li>
+<li>MCU</li>
+<li>EVANGELISTA</li>
+<li>SM SUCAT</li>
+<li>WILSON</li>
+<li>BAGUIO SUNSHINE MALL</li>
+<li>VIGAN</li>
+<li>BAUAN, BATANGAS</li>
+<li>ROBINSON'S NOVALICHES</li>
+<li>CSI LUCAO</li>
+<li>TAFT LIBERTAD</li>
+<li>PACIFIC MALL LEGAZPI</li>
+<li>ROBINSON'S METROEAST</li>
+<li>NAGA CITY PLAZA</li>
+<li>QUIRINO</li>
+<li>CANDON</li>
+<li>ALAMINOS</li>
+<li>SM DAVAO</li>
+<li>SANTIAGO</li>
+<li>TUGUEGARAO</li>
+<li>TACLOBAN</li>
+<li>MENDIOLA</li>
+<li>BALAYAN</li>
+<li>BACOLOD LOPUEZ</li>
+<li>LAPU-LAPU CITY</li>
+<li>SM BICUTAN</li>
+<li>JY SQUARE CEBU</li>
+<li> EDSA BONI </li>
+<li>BQ MALL BOHOL</li>
+<li>CEBU SOUTH ROAD</li>
+<li>BUTUAN</li>
+<li>IBM PASEO</li>
+<li>FORBES TOWN CENTER</li>
+<li>OLONGAPO RIZAL</li>
+<li>LA TRININDAD</li>
+<li>SM BAGUIO</li>
+<li>SM LUCENA</li>
+<li>SM MARILAO</li>
+<li>SM DASMARINAS</li>
+<li>JACKMAN MONUMENTO</li>
+<li>CALTEX SLEX</li>
+<li>MARKET MARKET</li>
+<li>CSI LA UNION</li>
+<li>SM BATANGAS</li>
+<li>OZAMIZ CITY</li>
+<li>SHELL MACAPAGAL</li>
+<li>SM MAKATI</li>
+<li>SHELL EMERALD</li>
+<li>LA PURISIMA ZAMBOANGA</li>
+<li>PEOPLE SUPPORT</li>
+<li>BANKMER</li>
+<li>SM SAN LAZARO</li>
+<li>SM MANILA 3RD LEVEL</li>
+<li>BINONDO</li>
+<li>WALTERMART GAPAN</li>
+<li>EL PUEBLO</li>
+<li>JAKA</li>
+<li>SM STA. ROSA</li>
+<li>UST</li>
+<li>SUCAT PALANYAG</li>
+<li>CALTEX SOUTH HUB</li>
+<li>SM MALL OF ASIA</li>
+<li>GISELLE PLAZA</li>
+<li>SM VALENZUELA</li>
+<li>FUENTE OSMENA CEBU</li>
+<li>MADRIGAL</li>
+<li>SM CLARK</li>
+<li>SM LIPA</li>
+<li>NORTHROAD MANDAUE</li>
+<li>CDO ORORAMA</li>
+<li>NORTHGATE</li>
+<li>CSI SAN CARLOS</li>
+<li>VILLA ESCUDERO</li>
+<li>COLON SOUTH CEBU</li>
+<li>STRATA 100</li>
+<li>EDSA IT</li>
+<li>TAGUM</li>
+<li>OLONGAPO GAPAN</li>
+<li>VALERO</li>
+<li>SM BACOLOD</li>
+<li>TM KALAW</li>
+<li>DUMAGUETE CITY</li>
+<li>OLONGAPO MAGSAYSAY</li>
+<li>FORT BONIFACIO 32ND STREET</li>
+<li>TRINOMA 1</li>
+<li>TRINOMA 2</li>
+<li>IMUS</li>
+<li>STA. MARIA</li>
+<li>SAN NICOLAS PLAZA</li>
+<li>CEBU ESCARIO</li>
+<li>ROBINSONS PLACE PIONEER</li>
+<li>SM MUNTINLUPA</li>
+<li>168 MALL</li>
+<li>SM TAYTAY</li>
+<li>ONE WORLD SQUARE</li>
+<li>DAVAO DAMOSA</li>
+<li>PETRON LAKESHORE</li>
+<li>DAVAO MATINA</li>
+<li>AMANG RODRIGUEZ</li>
+<li>WORLD WIDE CENTER</li>
+<li>JARO ILOILO</li>
+<li>FARMERS MARKET</li>
+<li>AGORA</li>
+<li>ONE E-COMMERCE</li>
+<li>CEBU TABUNOK</li>
+<li>TYCOON CENTRE</li>
+<li>CEBU IT PARK</li>
+<li>GATEWAY MALL</li>
+<li>GAISANO ILIGAN</li>
+<li>SM MARIKINA</li>
+<li>SHOPPERS ZAMBOANGA</li>
+<li>WALTERMART MUNOZ</li>
+<li>VICTORY CENTER MALL</li>
+<li>FRONTERA VERDE</li>
+<li>CSI BAYAMBANG</li>
+<li>MCARTHUR FIELDS</li>
+<li>COTABATO</li>
+<li>SOLANO</li>
+<li>SM BALIWAG</li>
+<li>Q PLAZA</li>
+<li>TIMOG TOBIAS</li>
+<li>DARAGA</li>
+<li>PAGADIAN</li>
+<li>C5 METROPOLIS</li>
+<li>EASTWOOD MALL</li>
+<li>ZABARTE</li>
+<li>SM CYBERZONE</li>
+<li>SM NAGA</li>
+<li>NEWPORT</li>
+<li>MALOLO BSU</li>
+<li>MARQUEE MALL</li>
+<li>CASIMIRO SOUTHVILLE</li>
+<li>SM CDO</li>
+<li>WEST FAIRVIEW</li>
+<li>SM ROSALES</li>
+<li>QA GARCIA</li>
+<li>PIAZZA</li>
+<li>WALTERMART TANAUAN</li>
+<li>BURGOS BATANGAS</li>
+<li>MARCOS HI-WAY ANTIPOLO</li>
+<li>KCC GENSAN</li>
+<li>SM SAN PABLO</li>
+<li>SM CALAMBA</li>
+<li>SM NOVALICHES</li>
+<li>PACIFIC MALL LUCENA</li>
+<li>SM CENTERPOINT</li>
+<li>BUSTILLOS</li>
+<li>GENSAN HWAY</li>
+<li>ROCKWELL ORTIGAS</li>
+<li>NEWPORT MALL</li>
+<li>ISETANN</li>
+<li>NEPO MART, ANGELES</li>
+<li>FATIMA ANTIPOLO</li>
+<li>ORTIGAS EXTENSION CAINTA</li>
+<li>STA. ANA</li>
+<li>SM MASINAG</li>
+<li>ABREEZA DAVAO</li>
+<li>UNCIANO CIRCUMFERENTIAL ANTIPOLO</li>
+<li>BAGUIO INSULAR CITY HALL</li>
+<li>CITY PLACE BINONDO</li>
+<li>CALAPAN MINDORO</li>
+<li>XAVIER CDO</li>
+<li>VICTORY PARK & SHOP ANTIPOLO</li>
+<li>CAVITE NEW MOLINO</li>
+<li>SM ROSARIO</li>
+<li>CAVITE NUENO</li>
+<li>NEW CONGRESSIONAL</li>
+<li>MDC 100</li>
+<li>BACOLOD NORTH DRIVE</li>
+<li>PUREGOLD MONTALBAN</li>
+<li>PIONEER RELIANCE</li>
+<li>JCENTER MALL CEBU</li>
+<li>GRANADA</li>
+<li>BUENDIA PASAY</li>
+<li>CEBU COLON OSMENA </li>
+<li>NORTHSTAR MALL ILAGAN</li>
+<li>STO. TOMAS BATANGAS</li>
+<li>ABS-CBN </li>
+<li>SUPER 8 PASIG</li>
+<li>PONTEVIA </li>
+<li>LYCEUM</li>
+<li>CAINTA POBLACION</li>
+<li>BF SOUTH PARK</li>
+<li>REMINGTON</li>
+<li>LA UNION</li>
+<li>VITO CRUZ BENILDE</li>
+<li>DAVAO STA ANA</li>
+<li>SOUTHWOODS ECOCENTRUM</li>
+<li>NAGA MAGSAYSAY</li>
+<li>DOWNTOWN BUTUAN</li>
+<li>PUREGOLD TAGUIG</li>
+<li>KARANGALAN</li>
+<li>SUPIMA</li>
+<li>PASO DE BLAS</li>
+<li>CALAMBA HIGHWAY</li>
+<li>TARLAC MOTORWAY</li>
+<li>HARBOR POINT SUBIC</li>
+<li>BAGUIO SLU</li>
+<li>SM GENSAN</li>
+<li>LIPA CM RECTO</li>
+<li>BLUERIDGE</li>
+<li>CABANATUAN BURGOS</li>
+<li>CENTRIO CDO AYALA</li>
+<li>BORACAY</li>
+<li>SAN MIGUEL ILIGAN</li>
+<li>DASMA PALA PALA</li>
+<li>SAN ISIDRO BALANTI</li>
+<li>DUMAGUETE PERDICES</li>
+<li>FORTUNATA</li>
+<li>PALAWAN</li>
+<li>NEW GLORIETTA</li>
+<li>AYALA MALL CAVITE</li>
+<li>XENTRO MALL SANTIAGO</li>
+<li>CEBU NORTH RECLAMATION</li>
+<li>KALIBO</li>
+<li>NE MALL GRD FLR </li>
+<li>SAN PABLO PLAZA</li>
+<li>BENCH BLDG</li>
+<li>SUBIC BAY GATEWAY RIZAL</li>
+<li>MACTAN NEWTOWN CEBU </li>
+<li>HOMEWORKS LAS PINAS</li>
+<li>CALICANTO BATANGAS</li>
+<li>SURIGAO</li>
+<li>BAGUIO ASSUMPTION</li>
+<li>DONA SOLEDAD </li>
+<li>MAGELLAN CROSS</li>
+<li>CONSOLACION</li>
+<li>J. ABAD SANTOS</li>
+<li>LAOAG CHENDAN</li>
+<li>COMMERCE AVE.</li>
+<li>SM AURA</li>
+<li>ETON CENTRIS</li>
+<li>LUCKY CHINATOWN</li>
+<li>GUMACA</li>
+<li>ANGELES CM RECTO</li>
+<li>MARIKINA CONCEPCION</li>
+<li>CEBU AEGIS</li>
+<li>BGC FORUM</li>
+<li>MANNA MALL LA UNION</li>
+<li>NOVA BAYAN</li>
+<li>PULILAN DRT HIGHWAY</li>
+<li>FISHERMALL</li>
+<li>STARMALL SAN JOSE DEL MONTE</li>
+<li>PUREGOLD TAGAPO</li>
+<li>SM BF</li>
+<li>UNIVERSITY OF PANGASINAN</li>
+<li>ANONAS CITY CENTER </li>
+<li>DAVAO BOLTON</li>
+<li>DISTRIC MALL DASMARINAS</li>
+<li>NAIC CAVITE</li>
+<li>PADRE FAURA</li>
+<li>BLUE BAY FEDERAL</li>
+<li>CEBU COLONNADE</li>
+<li>DON ANTONIO QC</li>
+<li>MCARTHUR MAIMPIS</li>
+<li>P. NOVAL</li>
+<li>WELCOME ROTONDA - SUNMALL</li>
+<li>SAN JOSE NUEVA ECIJA</li>
+<li>ADRIATICO</li>
+<li>SM HYPERMART DAET</li>
+<li>CDO PUREGOLD</li>
+<li>NAVOTAS</li>
+<li>TANAY</li>
